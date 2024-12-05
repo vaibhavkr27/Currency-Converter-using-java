@@ -1,39 +1,29 @@
-# Currency Calculator
+# Currency Converter using Java
 
 ## Overview
-A Java AWT-based application for converting currencies with a simple graphical user interface.
+A Java AWT-based currency conversion application.
 
 ## Features
-- Real-time currency conversion
-- Support for multiple currencies
-- User-friendly AWT interface
-- Simple and intuitive design
+- Multiple currency conversions
+- AWT graphical interface
+- Real-time exchange rates
 
-## Prerequisites
-- Java Development Kit (JDK) 8 or higher
-- Git
+## Setup
+1. Clone repository
+   ```
+   git clone https://github.com/vaibhavkr27/Currency-converter-using-java.git
+   ```
+2. Compile: `javac CurrencyConverter.java`
+3. Run: `java CurrencyConverter`
 
-## Installation
-1. Clone the repository
-   ```
-   git clone https://github.com/[vaibhavkr27]/currency-calculator.git
-   ```
-2. Navigate to project directory
-3. Compile and run the Java application
+## Technologies
+- Java
+- AWT
 
 ## Usage
-1. Select source currency
-2. Select target currency
-3. Enter amount
-4. Click convert
-5. View converted amount
-
-## Contributing
-1. Fork the repository
-2. Create feature branch
-3. Commit changes
-4. Push to branch
-5. Create pull request
+1. Select currencies
+2. Input amount
+3. Convert
 
 ## License
-[Specify your license - e.g., MIT, Apache]
+[Your License]
